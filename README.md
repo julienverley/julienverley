@@ -12,7 +12,7 @@ My projects live on GitHub pages :
 
 https://julienverley.github.io/JulienVerley_2_10112021/ 
 
-https://julienverley.github.io/JulienVerley_3_10112021/index.html 
+https://julienverley.github.io/ohmyfood/index.html
 
 https://julienverley.github.io/julien_verley_4_30092021/ 
 
