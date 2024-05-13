@@ -18,15 +18,15 @@ https://julienverley.github.io/gameOn/
 
 https://julienverley.github.io/fishEye/index.html 
 
-https://julienverley.github.io/julien_verley_7_30092021/ 
+https://julienverley.github.io/lesPetitsPlats/ 
 
-https://julienverley.github.io/julien_verley_11_062022/ 
+https://julienverley.github.io/kasa/ 
 
-https://julienverley.github.io/julien_verley_12_062022/ 
+https://julienverley.github.io/sportSee/ 
 
-https://julienverley.github.io/julien_verley_13_01082022/
+https://julienverley.github.io/argentBank/
 
-https://julienverley.github.io/julien_verley_14_092022/ 
+https://julienverley.github.io/HRnet/ 
 
 
 <!--
